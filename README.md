@@ -1,8 +1,8 @@
-# Quizzler
-# Calculate Your Love
+# Quizzler App
+# Calculate Your Love App
 
 Erdem "iMedre" Özgür
-Quizzler
+#Quizzler
 
 
 
@@ -12,7 +12,7 @@ Quizzler
 
 
 
-Calculate Your Love
+#Calculate Your Love
 
 
 ![Alt text](http://imedre.com/wp-content/uploads/2018/05/AskiniOlc.png)
