@@ -1,6 +1,22 @@
 # Plane Vs Birds
 ![Alt text](https://j.gifs.com/mQ5gZn.gif)
 
+My skills was developed by this simple project;
+How to draw and use Parallex Scrolling
+How to use SKSpriteNode to draw graphics to the screen.
+How to use Z position to draw one node above others.
+How particle systems can be used to provide special effects like fire, smoke, and dust.
+How to scroll background sprites at different speed to create the illusion of depth.
+How to let the player control their plane by tapping the screen.
+How to use the Timer class to run code at regular intervals.
+How to use GKRandomDistribution to generate random numbers in a specific range.
+How to create physics bodies out of textures.
+How to use contact test and category bitmasks to control physics interactions.
+How to use an SKLabelNode to show scores on the screen.
+How to use an SKAudioNode to play looping music, and SKAction to play one-off sounds.
+
+
+
 # Zombie Conga Game
 ![Alt text](http://imedre.com/wp-content/uploads/2018/07/Screen-Shot-2018-07-28-at-16.55.46.png)
 ![Alt text](http://imedre.com/wp-content/uploads/2018/07/Screen-Shot-2018-07-28-at-16.57.47.png)
