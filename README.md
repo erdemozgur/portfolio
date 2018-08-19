@@ -1,7 +1,7 @@
 # Plane Vs Birds
 ![Alt text](https://j.gifs.com/mQ5gZn.gif)
 
-My skills was developed by this simple project;
+I improved my coding skills which are listed in below  with this simple project;
 How to draw and use Parallex Scrolling
 How to use SKSpriteNode to draw graphics to the screen.
 How to use Z position to draw one node above others.
