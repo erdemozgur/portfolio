@@ -1,5 +1,5 @@
 # Cat Nap Game
-![Alt text](https://j.gifs.com/l5z5Ng.gif)
+![Alt text](https://j.gifs.com/Yv2v9n.gif)
 ![Alt text](http://imedre.com/wp-content/uploads/2018/07/Screen-Shot-2018-07-28-at-16.58.23.png)
 
 i improved my coding skills which are listed in below with this simple project;
@@ -13,7 +13,7 @@ i improved my coding skills which are listed in below with this simple project;
 8-Joints in use 
 9-Creating and removing joints dynamically 
 10-Compound shapes 
-
+l5z5Ng.gif
 
 
 
