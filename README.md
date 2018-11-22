@@ -1,6 +1,8 @@
 # Cat Nap Game
-![Alt text](https://j.gifs.com/Yv2v9n.gif)
+
 ![Alt text](http://imedre.com/wp-content/uploads/2018/07/Screen-Shot-2018-07-28-at-16.58.23.png)
+![Alt text](https://j.gifs.com/Yv2v9n.gif)
+
 
 i improved my coding skills which are listed in below with this simple project;
 1- Creating .sks files to understand scene editor
