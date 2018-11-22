@@ -1,6 +1,5 @@
 # Cat Nap Game
 
-![Alt text](http://imedre.com/wp-content/uploads/2018/07/Screen-Shot-2018-07-28-at-16.58.23.png)
 ![Alt text](https://j.gifs.com/PZPZqW.gif)
 
 
