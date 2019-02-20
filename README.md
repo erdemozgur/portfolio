@@ -1,4 +1,7 @@
 
+# Drop Charge Game Gif
+![Alt text](https://github.com/erdemozgur/portfolio/blob/master/dropCharge.gif?raw=true)
+
 # Aryn's Bug Game Gif
 ![Alt text](https://github.com/erdemozgur/portfolio/blob/master/gif.gif?raw=true)
 
