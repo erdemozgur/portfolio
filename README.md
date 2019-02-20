@@ -2,14 +2,15 @@
 # Aryn's Bug Game Gif
 ![Alt text](https://github.com/erdemozgur/portfolio/blob/master/gif.gif?raw=true)
 
-Imagine that viruses take over the world, but now you have a savior, Arnie. Moreover, it can destroy invincible red viruses, can break the walls and green just does not have much time.
+Imagine that bugs take over the world, but now you have a savior, Arnie, He can kill invincible red bugs, break the walls and turn into a green giant with special ability, but he just does not have much time.
 
-With this game, I learned map production, game recording, loading issues using tile maps.
---------
+With this game, i learned map production with using tile maps, game saving and loading progress etc.
 
-Virüslerin dünyayı ele geçirdiğini hayal et, ama şimdi bir kurtarıcın var, Arnie. Üstelik o yenilmez kırmızı virüsleri yok edebiliyor, duvarları kırabiliyor ve yeşil Sadece çok zamanı yok.
+There are more advanced games in order. Stand by... ———————————
+Virüslerin dünyayı ele geçirdiğini hayal edin, ama şimdi bir kurtarıcınız var, Arnie. O yenilmez kırmızı virüsleri öldürebiliyor, duvarları kırabiliyor ve özel yeteneği ile yeşil deve dönüşebiliyor fakat sadece çok zamanı yok.
 
-Bu oyunla birlikte tile maps kullanarak harita üretimi, oyunu kaydetme, yükleme konularını öğrendim. 
+Bu oyunla birlikte tile maps kullanarak harita üretimi, oyunu kaydetme ve geri yükleme olaylarını öğrendim.
+
 
 # Motion Design Works
 ![Alt text](https://j.gifs.com/jqxqWl.gif)
