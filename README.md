@@ -1,6 +1,6 @@
 
 # Kolay Ezberle iOS ve Web App Development Screen Shots
-![Alt text](https://github.com/erdemozgur/portfolio/blob/master/app1.png?raw=true)
+
 
 
 
