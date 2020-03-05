@@ -71,14 +71,5 @@ How to use an SKAudioNode to play looping music, and SKAction to play one-off so
 
 
 
-# Zombie Conga Game
-![Alt text](http://imedre.com/wp-content/uploads/2018/07/Screen-Shot-2018-07-28-at-16.55.46.png)
-![Alt text](http://imedre.com/wp-content/uploads/2018/07/Screen-Shot-2018-07-28-at-16.57.47.png)
-
-# Race Game
-![Alt text](http://imedre.com/wp-content/uploads/2018/07/Screen-Shot-2018-07-28-at-17.02.23.png)
-
-
-
 
 
