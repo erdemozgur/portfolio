@@ -1,6 +1,8 @@
 
 # Kolay Ezberle iOS And Web App Development Screen Shots
 ![Alt text](https://github.com/erdemozgur/portfolio/blob/master/KOLAYEZBERLE.png?raw=true)
+![Alt text](https://github.com/erdemozgur/portfolio/blob/master/kelimekurucu.gif?raw=true)
+
 ![Alt text](https://github.com/erdemozgur/portfolio/blob/master/adminpanel.png?raw=true)
 
 
@@ -73,25 +75,8 @@ How to use an SKAudioNode to play looping music, and SKAction to play one-off so
 
 # Race Game
 ![Alt text](http://imedre.com/wp-content/uploads/2018/07/Screen-Shot-2018-07-28-at-17.02.23.png)
-# Newbie Game Assets Designer
-![Alt text](http://imedre.com/wp-content/uploads/2018/07/assetKasa.png)
-![Alt text](http://imedre.com/wp-content/uploads/2018/07/crossAsset.png)
-# Quizzler App
-# Calculate Your Love App
-
-Erdem "iMedre" Özgür
-#Quizzler
-
-
-
-![Alt text](http://imedre.com/wp-content/uploads/2018/05/QuizzlerApp.png)
 
 
 
 
-
-#Calculate Your Love
-
-
-![Alt text](http://imedre.com/wp-content/uploads/2018/05/AskiniOlc.png)
 
