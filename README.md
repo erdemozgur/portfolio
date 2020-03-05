@@ -1,5 +1,5 @@
 
-# Kolay Ezberle iOS ve Web App Development Screen Shots
+# Kolay Ezberle iOS And Web App Development Screen Shots
 ![Alt text](https://github.com/erdemozgur/portfolio/blob/master/KOLAYEZBERLE.png?raw=true)
 ![Alt text](https://github.com/erdemozgur/portfolio/blob/master/adminpanel.png?raw=true)
 
