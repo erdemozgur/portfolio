@@ -2,6 +2,8 @@
 # Wordoo
 ![Alt text](https://github.com/erdemozgur/portfolio/blob/master/Photos/WordooGithub.png?)
 
+![Alt text](https://github.com/erdemozgur/portfolio/blob/master/Photos/WordooApp.png?)
+
 
 # Turkcell - GoArena iOS App -
 ![Alt text](https://github.com/erdemozgur/portfolio/blob/master/Photos/turkcellGoArenaApp.png?=250x250)
