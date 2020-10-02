@@ -2,6 +2,8 @@
 # Wordoo
 ![Alt text](https://github.com/erdemozgur/portfolio/blob/master/Photos/WordooGithub.png?)
 
+![Alt text](https://github.com/erdemozgur/portfolio/blob/master/Photos/WordooLinkedin.png?)
+
 ![Alt text](https://github.com/erdemozgur/portfolio/blob/master/Photos/WordooApp.png?)
 
 
